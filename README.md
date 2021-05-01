@@ -1,2 +1,2 @@
 # Coursera-test
-Coursera Tests
+Coursera Tests Repository
